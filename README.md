@@ -2,8 +2,7 @@
 - 👀 I’m interested in coding with python and develop wesites.
 - 🌱 I’m currently learning and searching for new technologies to learn.
 - 💞️ I’m looking to collaborate on startup's or MNC'S to prove my work and strengths.
-- 📫 Here is my contact details www.linkedin.com/in/
-varun-papanaboina-619804248
+- 📫 Here is my contact details www.linkedin.com/in/varun-papanaboina-619804248
 - 😄 love travelling,cooking and riding cars.
 
 <!---
